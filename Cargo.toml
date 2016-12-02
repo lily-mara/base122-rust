@@ -2,6 +2,10 @@
 authors = ["Nate Mara <natemara@gmail.com>"]
 name = "base122"
 version = "0.1.0"
+description = "Rust implementation of the base-122 encoding"
+license = "MIT"
+documentation = "https://docs.rs/base122"
+repository = "https://github.com/natemara/base122-rust"
 
 [dependencies]
 log = "0.3.6"
